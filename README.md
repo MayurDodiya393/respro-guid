@@ -4,7 +4,7 @@
 
 The **Respro Dashboard** is a modern web-based business management system designed to make daily operations easier, faster, and more organized.
 
-Many companies currently manage work using Google Sheets, WhatsApp messages, manual follow-ups, and phone calls. While these methods work, they often create challenges such as:
+we are currently manage work using Google Sheets, WhatsApp messages, manual follow-ups, and phone calls. While these methods work, they often create challenges such as:
 - Missing updates
 - Manual reminders
 - Duplicate work
