@@ -785,6 +785,14 @@ All paths start after login. Base URL is your server + `/app`.
 
 ---
 
+## ?? Final note
+
+Respro is designed to make work easier, more reliable, and more visible. It is built for business users, coordinators, and managers � not for technical people.
+
+Use this guide to understand the app structure, choose the right feature for your work, and keep tasks moving.
+
+---
+
 ## Support
 
 For access problems, wrong department, or role changes ? contact your **Respro administrator** (Users / Roles under Masters).
